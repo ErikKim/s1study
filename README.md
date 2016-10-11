@@ -3,6 +3,7 @@
 (0)이친수 찾기 http://www.acmicpc.net/problem/2201
 
 자물쇠 http://www.acmicpc.net/problem/1514
+참고 : http://comganet.github.io/dp/2016/06/03/dp-1001
 
 탑  http://www.acmicpc.net/problem/1126
 
