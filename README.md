@@ -5,6 +5,7 @@
 (참고 : http://comganet.github.io/dp/2016/06/03/dp-1001)
 
 * 탑  http://www.acmicpc.net/problem/1126
+      (https://www.acmicpc.net/board/view/7458)
 * 그림  http://www.acmicpc.net/problem/1029
 * 007  http://www.acmicpc.net/problem/3056
 * 로또 http://www.acmicpc.net/problem/2758
